@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(211, 235, 241);
+}
+#form h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(4, 94, 94);
+    font-size: 32px;
+}
+#form {
+    border: 2px solid;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 10%;
+    width: 30%;
+    height: 400px;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(69, 197, 197);
+}
+input{
+  margin-top: 30px;
+  height: 20px;
+  width: 200px;  
+}
+#submit {
+    border-radius: 10px;
+    font-size: 1em;
+    width: 18vh;
+    height: 6vh;
+    background-color: rgb(153, 7, 146);
+    color: white;
+}
+/*
+.f2 {
+    font-size: 0.75em;
+}
+.f2 label {
+    font-size: 1.5em;
+}
+.f2 input {
+    width: 15px;  
+}
+
